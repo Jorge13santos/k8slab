@@ -4,7 +4,7 @@ Provisiona infra para laboratório de k8s usando 1 master e 2 workers.
 ## Como usar? 
 
 ```sh
-$ git clone https://github.com/janssenlima/kubernetes
+$ git clone https://github.com/Jorge13santos/k8slab.git
 $ cd kubernetes
 $ vagrant up
 ```
